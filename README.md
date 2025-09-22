@@ -1,7 +1,7 @@
 # Projeto Persistência Poliglota com MongoDB + SQLite + Streamlit
 
 ## Autor
-Matheus Cândido Carneiro Lima – RGM: 35593229
+Matheus Cândido Carneiro Lima 
 
 ## Descrição
 Este projeto demonstra persistência poliglota usando:
